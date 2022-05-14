@@ -189,8 +189,24 @@ Date:   Fri May 13 22:10:31 2022 -0400
 
 " 
 
-"Answer 9" 
-"Answer 10" 
-"Answer 11" 
-"Answer 12" 
+"Answer 9
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+        modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+" 
+
+"Answer 10
+not reflected" 
+
+"Answer 11
+not reflcted"
+ 
+"Answer 12
+reflected" 
+
 "Answer 13" 
